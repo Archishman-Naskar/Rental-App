@@ -46,7 +46,7 @@ This project enables users to **list, discover, and manage rental properties** �
 
 ## 🗂️ Project Structure
 
-```
+```bash
 
 Rental-App/
 ├── client/                     # Next.js frontend
@@ -69,7 +69,7 @@ Rental-App/
 │
 └── README.md
 
-````
+```
 
 ---
 
